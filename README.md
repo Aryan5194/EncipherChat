@@ -1,7 +1,8 @@
-# Secure Chat Application  
+# EncipherChat 
 
 ## OVERVIEW
-This project aims to develop a secure chat application that enables real-time communication with end-to-end encryption. Key areas covered in this project include:  
+A chat application built with cryptographic algorithms, enabling users to communicate safely through a centralized server.  
+Messages are **encrypted end-to-end** before transmission, ensuring privacy and protection against eavesdropping.. Key areas covered in this project include:  
 - **Socket Programming**  
 - **Real-Time Communication**  
 - **End-to-End Encryption**  
@@ -17,3 +18,4 @@ This project aims to develop a secure chat application that enables real-time co
 - **Python** – Backend development  
 - **Tkinter** – User interface design  
 - **Socket Module** – Real-time message transmission
+
